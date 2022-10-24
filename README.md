@@ -1,7 +1,0 @@
-# Heading level 1 Projet PC Valise
-
-
-Idée de base : serveur NAS pour sauvegarder son PC et le réinsaller pour ne pas avoir a retélécharger tous les jeux parce que la co est nul
-j'ai voulu en même temps faire un PC mais vu que j'ai pas acheter des choses toute faite j'ai voulu faire mon propre PC portable. J'en suis dont arrivé a l'idée de mettre une ordinateur tour dans une valise de manière intégré (comme dans les film).
-J'ai d'abord acheté des composants d'ordinateur sur LDLC comme si j'allais faire un PC normal (sauf le boitier du coup). Ensuite j'ai trouvé un site pour commander un flightcase sur mesure en kit (pour réduire le prix). J'ai construit la valise et le PC, j'ai découpé des parties d'un ancien boitier que j'avais pour avoir les pas de vis au normes pour la carte mère etc... Une fois le tout fixé j'ai fais un système d'accroche pour l'alimentation (pour pas que ça bouge quand la valise est transporté). pour l'écran j'ai utilisé le système VESA de base et j'ai fais des trous dans la valise, j'ai utilisé des vises noirs pour qu'elle ne se voient pas trop. Une fois fini j'ai fais un trou sur le coté pour pouvoir brancher l'alimentation directement fans la valise et j'ai relié l'alimentation du PC et de l'écran en un seul câble pour n'utiliser qu'un seul câble pour alimenter le PC entier. Une fois fini j'ai installé un OS comme sur un ordinateur normal.
-l'inconvéniant de ce PC est que il pèse 20Kg et que pour l'utiliser il faut obligatoirement le brancher. Sinon c'est un PC tour "otpimiser" pour le transport.
