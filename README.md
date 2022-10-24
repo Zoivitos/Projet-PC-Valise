@@ -1,4 +1,3 @@
-@@ -1,14 +0,0 @@
 # Idée de base 
 L'idée etait de realiser un serveur NAS pour sauvegarder son PC et le réinstaller facilement sans avoir a retélécharger tous les jeux et logiciels ce qui serait trop long a cause d'une connection internet trop lente.
 J'ai voulu faire mon propre PC portable. J'en suis donc arrivé a l'idée de mettre une ordinateur "fixe" dans une valise de manière intégré (comme dans les film).
