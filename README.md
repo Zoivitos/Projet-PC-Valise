@@ -1,43 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@Zoivitos
-Zoivitos /
-Projet-PC-Valise
-Public
-
-Code
-Issues
-Pull requests 1
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-Update README.md #1
-Open
-YonahFSR wants to merge 2 commits into Zoivitos:main from YonahFSR:patch-1
-+0 −7
-Conversation 0
-Commits 2
-Checks 0
-Files changed 1
-Open
-Update README.md
-#1
-File filter
-Merge branch 'main' into patch-1
-@Zoivitos
-Zoivitos committed 2 minutes ago
-commit 3b1d5de542279ff825d20d3c331b6cf9efcca341
-14
-README.md
 @@ -1,14 +0,0 @@
 # Idée de base 
 L'idée etait de realiser un serveur NAS pour sauvegarder son PC et le réinstaller facilement sans avoir a retélécharger tous les jeux et logiciels ce qui serait trop long a cause d'une connection internet trop lente.
@@ -53,10 +13,6 @@ Pour l'écran j'ai utilisé le système VESA de base et j'ai percé la valiseet 
 Ce PC est pèse 20Kg et il faut obligatoirement le brancher pour l'utiliser. 
 ### Les plus
 Cest un PC fixe "otpimisé" pour etre deplacé.
-You are viewing a condensed version of this merge commit. You can view the full changes here.
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
 
     Terms
     Privacy
