@@ -19,9 +19,3 @@ Pour l'écran j'ai utilisé le système VESA de base .J'ai alors percé la valis
 | Les +  | Les - |
 | ------------- |:-------------:|
 | Ce PC est pèse 20Kg et il faut obligatoirement le brancher pour l'utiliser.     |Cest un PC fixe "otpimisé" pour etre deplacé.     |
-
-### Les moins
-Ce PC est pèse 20Kg et il faut obligatoirement le brancher pour l'utiliser. 
-
-### Les plus
-Cest un PC fixe "otpimisé" pour etre deplacé.
