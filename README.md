@@ -12,17 +12,3 @@ Pour l'écran j'ai utilisé le système VESA de base et j'ai percé la valiseet 
 Ce PC est pèse 20Kg et il faut obligatoirement le brancher pour l'utiliser. 
 ### Les plus
 Cest un PC fixe "otpimisé" pour etre deplacé.
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-Update README.md by YonahFSR · Pull Request #1 · Zoivitos/Projet-PC-Valise 
